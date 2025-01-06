@@ -19,9 +19,9 @@
 ## 🛠️ Technologies Used:
 
 - **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express
+- **Backend**: Python (Flask/Django)
 - **API**: DigiLocker API for document verification
-- **Database**: MongoDB (if applicable)
+- **Database**: MongoDB 
 
 ---
 
