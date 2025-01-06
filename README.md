@@ -1,1 +1,1 @@
-# Yojna-Mitra
+# Yojana-Mitra
