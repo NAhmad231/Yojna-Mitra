@@ -43,5 +43,5 @@ Contributions are welcome! If you have any ideas or suggestions, feel free to op
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/NAhmad231/yojna-mitra)
-- [Demo Link]([https://yourappdemo.com](https://nahmad231.github.io/Yojna-Mitra/))
+- [Demo Link](https://nahmad231.github.io/Yojna-Mitra/)
 
